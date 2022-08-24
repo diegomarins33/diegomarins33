@@ -3,9 +3,10 @@
 ---
 No momento estou buscando minha primeira oportunidade como Desenvolvedor Jr. 💻
 ---
-### Estudo atualmente: 📚
+### Habilidades: 📚
+- HTML
+- CSS
 - Python 
-- Django
 - Flask
 - Javascript
 - Node.JS
