@@ -9,8 +9,6 @@ No momento estou buscando minha primeira oportunidade como Desenvolvedor Jr. ðŸ’
 - Python 
 - Flask
 - Javascript
-- Node.JS
-- Express
 ---
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarins33&theme=blue-green)
 
