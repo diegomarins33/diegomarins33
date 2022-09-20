@@ -4,11 +4,12 @@
 No momento estou buscando minha primeira oportunidade como Desenvolvedor Jr. 💻
 ---
 ### Habilidades: 📚
-- HTML
-- CSS
 - Python 
-- Flask
 - Javascript
+- Node.JS
+- Express.JS
+- Sequelize
+- MySQL
 ---
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarins33&theme=blue-green)
 
