@@ -5,7 +5,7 @@ Seja bem vindo ao meu perfil.
 
 - formado em Ciência da Computação (2016) 
 
-- curso no momento Pós Graduação em Projetos Cloud Computing (Previsão: 2024)
+- Pós Graduado em Projetos Cloud Computing (2024)
 
 - Atualmente estudando para iniciar minha carreira tech. 
 ---
