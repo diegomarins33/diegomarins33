@@ -12,10 +12,11 @@ Bootcamp Dev Full Stack XP Inc (.Net + React) pela DIO.
 
 ---
 
+[![Meu Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-marins-a9240184/)
+
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarins33&theme=blue-green)
 
 ---
-Clique aqui 👇 p/ acessar meu linkedin:
 
-[![Meu Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-marins-a9240184/)
+
 
